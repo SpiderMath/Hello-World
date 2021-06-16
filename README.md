@@ -40,6 +40,8 @@ To contribute, make a file in the [Source](https://github.com/Spidermath/Hello-W
 
 - [Kotlin](https://github.com/SpiderMath/Hello-World/blob/main/Source/Hello-World.kt) (<b>[Wikipedia](https://en.wikipedia.org/wiki/Kotlin_(programming_language))</b>)
 
+- [Lua](https://github.com/SpiderMath/Hello-World/blob/main/Source/Hello-World.lua) (<b>[Wikipedia](https://en.wikipedia.org/wiki/Lua_(programming_language))</b>)
+
 - [Python](https://github.com/SpiderMath/Hello-World/blob/main/Source/Hello-World.py) (<b>[Wikipedia](https://en.wikipedia.org/wiki/Python_(programming_language))</b>)
 
 - [Rust](https://github.com/SpiderMath/Hello-World/blob/main/Source/Hello-World.rs) (<b>[Wikipedia](https://en.wikipedia.org/wiki/Rust_(programming_language))</b>)
