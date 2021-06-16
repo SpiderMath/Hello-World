@@ -8,3 +8,19 @@ To contribute, make a file in the [Source](https://github.com/Spidermath/Hello-W
 > **🗒 Note:** The program has to output, `Hello, World!` upon running.
 
 > ##### If possible, please include a brief summary about the program or language in comments as well!
+<hr>
+<details>
+<summary><b>Languages Listed</b></summary>
+
+<i>
+
+- [C](https://github.com/SpiderMath/Hello-World/blob/main/Source/Hello-World.c)
+- [C++](https://github.com/SpiderMath/Hello-World/blob/main/Source/Hello-World.cpp)
+- [CoffeeScript](https://github.com/SpiderMath/Hello-World/blob/main/Source/Hello-World.coffee)
+- [JavaScript](https://github.com/SpiderMath/Hello-World/blob/main/Source/Hello-World.js)
+- [Python](https://github.com/SpiderMath/Hello-World/blob/main/Source/Hello-World.py)
+- [Rust](https://github.com/SpiderMath/Hello-World/blob/main/Source/Hello-World.rs)
+- [Shell Script](https://github.com/SpiderMath/Hello-World/blob/main/Source/Hello-World.rs)
+- [TypeScript](https://github.com/SpiderMath/Hello-World/blob/main/Source/Hello-World.ts)
+</i>
+</details>
