@@ -1,2 +1,2 @@
-(ns app)
+(ns main)
 (print "Hello, World!")
