@@ -28,7 +28,7 @@ To contribute, make a file in the [Source](https://github.com/Spidermath/Hello-W
 
 - [Go](https://github.com/SpiderMath/Hello-World/blob/main/Source/Hello-World.go) (<b>[Wikipedia](https://en.wikipedia.org/wiki/Go_(programming_language))</b>)
 
-- [Haskell](https://github.com/SpiderMath/Hello-World/blob/main/Source/Hello-World.hs) (<b>[Wikipedia](https://en.wikipedia.org/wiki/Haskell_(programming_language)))
+- [Haskell](https://github.com/SpiderMath/Hello-World/blob/main/Source/Hello-World.hs) (<b>[Wikipedia](https://en.wikipedia.org/wiki/Haskell_(programming_language))</b>)
 
 - [HTML](https://github.com/SpiderMath/Hello-World/blob/main/Source/Hello-World.html) (<b>[Wikipedia](https://en.wikipedia.org/wiki/HTML)</b>)
 
