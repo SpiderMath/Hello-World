@@ -1,2 +1,3 @@
 console.log("Hello, World!");
-// console.log prints the passed in argument to the console/terminal where you run it. Works both in Browsers, Node.js and everywhere
+// TypeScript is an implementation of JavaScript, which aims to provide strong-typings and provide better developer experience. It is transpiled to JavaScript on Runtime.
+// It allows users to create their custom types among others along with strict type-checks
