@@ -1,2 +1,2 @@
 (ns app)
-(print "Saying hello to " name)
+(print "Hello, World!")
