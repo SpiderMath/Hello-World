@@ -44,6 +44,8 @@ To contribute, make a file in the [Source](https://github.com/Spidermath/Hello-W
 
 - [Matlab](https://github.com/SpiderMath/Hello-World/blob/main/Source/Hello-World.m) (<b>[Wikipedia](https://en.wikipedia.org/wiki/MATLAB)</b>)
 
+- [MoonScript](https://github.com/Spidermath/Hello-World/blob/main/Source/Hello-World.moon) (<b>[Wikipedia](https://en.wikipedia.org/wiki/Lua_(programming_language)#Languages_that_compile_to_Lua)</b>)
+
 - [Python](https://github.com/SpiderMath/Hello-World/blob/main/Source/Hello-World.py) (<b>[Wikipedia](https://en.wikipedia.org/wiki/Python_(programming_language))</b>)
 
 - [Rust](https://github.com/SpiderMath/Hello-World/blob/main/Source/Hello-World.rs) (<b>[Wikipedia](https://en.wikipedia.org/wiki/Rust_(programming_language))</b>)
