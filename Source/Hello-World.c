@@ -2,7 +2,8 @@
 // Importing the stdio library, it gives us access to various methods to print stuff etc
 
 // main() is the entry point of the program, and it will be where the main logic has to work
-int main() {
+int main()
+{
 	// printf() prints the text to the console, without moving the curson to the next line
 	printf("Hello, World!");
 	return 0;
