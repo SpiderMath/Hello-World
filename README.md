@@ -20,7 +20,7 @@ To contribute, make a file in the [Source](https://github.com/Spidermath/Hello-W
 - [JavaScript](https://github.com/SpiderMath/Hello-World/blob/main/Source/Hello-World.js)
 - [Python](https://github.com/SpiderMath/Hello-World/blob/main/Source/Hello-World.py)
 - [Rust](https://github.com/SpiderMath/Hello-World/blob/main/Source/Hello-World.rs)
-- [Shell Script](https://github.com/SpiderMath/Hello-World/blob/main/Source/Hello-World.rs)
+- [Shell Script](https://github.com/SpiderMath/Hello-World/blob/main/Source/Hello-World.sh)
 - [TypeScript](https://github.com/SpiderMath/Hello-World/blob/main/Source/Hello-World.ts)
 </i>
 </details>
