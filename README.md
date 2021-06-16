@@ -7,7 +7,7 @@ To contribute, make a file in the [Source](https://github.com/Spidermath/Hello-W
 
 > **🗒 Note:** The program has to output, `Hello, World!` upon running.
 
-> ##### If possible, please include a brief summary about the program or language in comments as well!
+> #### If possible, please include a brief summary about the program or language in comments as well!
 <hr>
 <details>
 <summary><b>Languages Listed</b></summary>
