@@ -17,6 +17,7 @@ To contribute, make a file in the [Source](https://github.com/Spidermath/Hello-W
 - [BASIC](https://github.com/SpiderMath/Hello-World/blob/main/Source/Hello-World.bas) (<b>[Wikipedia](https://en.wikipedia.org/wiki/BASIC)</b>)
 - [C](https://github.com/SpiderMath/Hello-World/blob/main/Source/Hello-World.c) (<b>[Wikipedia](https://en.wikipedia.org/wiki/C_(programming_language))</b>)
 - [C++](https://github.com/SpiderMath/Hello-World/blob/main/Source/Hello-World.cpp) (<b>[Wikipedia](https://en.wikipedia.org/wiki/C++)</b>)
+- [Clojure](https://github.com/SpiderMath/Hello-World/blob/main/Source/Hello-World.clj) (<b>[Wikipedia](https://en.wikipedia.org/wiki/Clojure)</b>)
 - [CoffeeScript](https://github.com/SpiderMath/Hello-World/blob/main/Source/Hello-World.coffee) (<b>[Wikipedia](https://en.wikipedia.org/wiki/CoffeeScript)</b>)
 - [Fortran](https://github.com/SpiderMath/Hello-World/blob/main/Source/Hello-World.f90) (<b>[Wikipedia](https://en.wikipedia.org/wiki/Fortran)</b>)
 - [Go](https://github.com/SpiderMath/Hello-World/blob/main/Source/Hello-World.go) (<b>[Wikipedia](https://en.wikipedia.org/wiki/Go_(programming_language))</b>)
