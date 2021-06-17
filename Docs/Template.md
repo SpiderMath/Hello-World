@@ -8,6 +8,8 @@
 
 - **Wikipedia**: Wikipedia URL
 
+- **File Extension**: .something
+
 - **Remarks**: Some Remarks and explanations here
 
 - **Resources**:

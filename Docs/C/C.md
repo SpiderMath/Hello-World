@@ -8,6 +8,8 @@
 
 - **Wikipedia**: [Here](https://en.wikipedia.org/wiki/C_(programming_language))
 
+- **File Extension**: `.c`
+
 - **Remarks**: 
 	C is a really old programming language, often taught in various schools and universities to teach basics of programming to students. C is one of the fastest languages in computer programming<br>
 
