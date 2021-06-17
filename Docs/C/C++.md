@@ -64,6 +64,6 @@ will basically print out `Hello, World! Some other text which I want to put!`.
 ```
 Every function has a type of value that it can return. For example, `bool` (Basically true or false), `int` (integer), etc... (you'll know more when you do Data Types). Since the program was declared with `int main()`, it **has** to return an integral value in the end. So we do return 0 to let the program know that, `Yes, we are done`.<br><br>
 
-If you noticed, we used `;` (semicolons) in cout and return statements. If you are wondering what they are for and they're for, then you are right to think about that. Semicolons are **absolutely** necessary in your code. It basically lets the compiler know that the line of logic has ended. The reason for it being not in the other lines is that, for one thing, include statements do NOT need it, and functions do not require it at the end too, since the last `}` demarkates its end.
+If you noticed, we used `;` (semicolons) in cout and return statements. If you are wondering what they are for and they're for, then you are right to think about that. Semicolons are **absolutely** necessary in your code. It basically lets the compiler know that the line of logic has ended. The reason for it being not in the other lines is that, for one thing, include statements do NOT need it, and functions do not require it at the end too, since the last `}` demarcates its end.
 
 - **Resources**:
