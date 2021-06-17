@@ -29,7 +29,7 @@ Now lets break it down into parts to understand what's going on in the code
 ```c
 #include <stdio.h>
 ```
-In this line, we import the stdio library, which is a build in Library in C. The reason for it having a `.h` extension is that it is a `header` file and can be imported to the program. This library gives us access to basic methods to help us in Input and Output (the reason it is called `stdio` is that is provides us with **St**andar**d** **I**nput **O**utput methods)
+In this line, we import the stdio library, which is a build in Library in C. The reason for it having a `.h` extension is that it is a `header` file and can be imported to the program. This library gives us access to basic methods to help us in Input and Output (the reason it is called `stdio` is that it provides us with **St**andar**d** **I**nput **O**utput methods)
 
 ```c
 int main() 
